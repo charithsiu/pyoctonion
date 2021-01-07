@@ -6,7 +6,7 @@
 
 In this project, we introduce Python Library for octonions. There is a Python Library for facilitating algebra in quaternions called "pyquaternion". However, no python Library for doing algebraic operations in octonions. We introduce this "pyoctonion" library for researchers who need calculations in octonions. Due to lack of commutativity and Associativity, manual simpliflication is always time consuming and might go wrong. This package will certainly help to check octonionic identities and work with wide range of problems in octonions.
 
-![PyPI](https://i.ibb.co/qpthHk0/pyoct.png)
+![PyPI](https://i.ibb.co/txc6QhY/oct-graph.jpg)
 
 ## Installation
 
